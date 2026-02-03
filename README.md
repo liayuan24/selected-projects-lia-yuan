@@ -3,7 +3,7 @@
 A small portfolio of coursework and applied projects in econometrics and business analytics.
 
 ## Projects
-- **Wage Differentials & “Model Minority” Effects (UK)**  
+- **Wage Differentials & “Model Minority Myth” Effects (UK)**  
   Oaxaca–Blinder decomposition + OLS (with interactions) to compare White–Asian vs White–Black wage differentials.
 
 - **Smart Pet Wearable — Bayesian Network & Survey Validation**  
