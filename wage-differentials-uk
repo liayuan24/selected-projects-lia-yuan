@@ -1,0 +1,20 @@
+# Wage Differentials & “Model Minority Myth” Effects (UK)
+
+## Goal
+Evaluate whether the “model minority” myth is reflected in wage differentials by comparing White–Asian vs White–Black wage gaps in the UK.
+
+## Methods
+- Labor-economics framing (Borjas)
+- Oaxaca–Blinder decomposition (explained vs unexplained components)
+- OLS regressions with and without interaction terms
+
+## Key findings (high level)
+- White–Asian wage differential is smaller than White–Black.
+- Characteristics aligned with “model minority” patterns are associated with higher returns to earnings.
+
+## Files
+- `research_project_MMM.pdf` — full write-up
+- `code.do` — Stata replication script
+
+## Data
+Data not included in this repository (license/privacy). Scripts assume the dataset is available locally; see comments in the code for expected input format.
